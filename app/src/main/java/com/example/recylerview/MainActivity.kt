@@ -20,15 +20,15 @@ class MainActivity : AppCompatActivity() {
 
         dataList = ArrayList()
 
-        dataList.add(ModelClass(R.drawable.recyclericon,"Bharat","7289889009"))
-        dataList.add(ModelClass(R.drawable.recyclericon2,"Lalit","9289114909"))
-        dataList.add(ModelClass(R.drawable.recyclericon3,"Chacha ji","9971649909"))
-        dataList.add(ModelClass(R.drawable.recyclericon5,"Saniya","8945871209"))
+        dataList.add(ModelClass(R.drawable.recyclericon,"Bharat","728988***9"))
+        dataList.add(ModelClass(R.drawable.recyclericon2,"Lalit","928911***9"))
+        dataList.add(ModelClass(R.drawable.recyclericon3,"Chacha ji","997164***9"))
+        dataList.add(ModelClass(R.drawable.recyclericon5,"Saniya","894587***9"))
 
-        dataList.add(ModelClass(R.drawable.recyclericon,"Papa ji","9927279244"))
-        dataList.add(ModelClass(R.drawable.recyclericon2,"Mama ji","8057803232"))
-        dataList.add(ModelClass(R.drawable.recyclericon3,"Nana ji","9760170200"))
-        dataList.add(ModelClass(R.drawable.recyclericon5,"Mami ji","8945871209"))
+        dataList.add(ModelClass(R.drawable.recyclericon,"Papa ji","992727***4"))
+        dataList.add(ModelClass(R.drawable.recyclericon2,"Mama ji","805780***2"))
+        dataList.add(ModelClass(R.drawable.recyclericon3,"Nana ji","976017***0"))
+        dataList.add(ModelClass(R.drawable.recyclericon5,"Mami ji","894587***9"))
 
         itemAdapter = itemAdapter(dataList,this)
 
